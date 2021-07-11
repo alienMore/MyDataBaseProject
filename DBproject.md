@@ -11,3 +11,9 @@
 
 **Каие таблицы и поля будут в PostgreSQL**
 ![](/tables.JPG)
+
+**Наполнение таблиц будет похоже на это:**
+
+![](/data_from_elasticsearch.JPG "data_from_elasticsearch") ![](/warning_type_description.JPG "warning_type_description")
+
+![](/join2tables.JPG "join2tables")
